@@ -1,0 +1,12 @@
+Guarda los archivos
+git add .
+
+git commit -m "Escribir dato que se cambio o agrego al subir archivo"
+
+# subir los cambios que se hicieron en linea
+git push origin master
+
+Mostrar el estado de los archivos
+git status
+
+
